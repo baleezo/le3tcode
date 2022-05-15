@@ -1,4 +1,5 @@
 class Solution(object):
+    # https://leetcode.com/problems/minimum-size-subarray-sum/solution/
     def minSubArrayLen(self, target, nums):
         """
         :type target: int
